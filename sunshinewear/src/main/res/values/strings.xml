@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sunshine wear</string>
+    <string name="message">Watch face tapped</string>
+    <string name="my_digital_name">My Digital</string>
+
+
+    <string name="zero_prefix">0%d</string>
+
+    <string name="time_format">%1$s:%2$s</string>
+    <string name="date_format"/>
+
+    <string name="no_weather">No weather data</string>
+
+    <string name="temperature_format">%d&#xb0;</string>
+
+</resources>
